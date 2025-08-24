@@ -1,0 +1,6 @@
+path: D:\Capstone\\brinda\Segmentation\Dataset training final
+train: images\train
+val: images\val
+
+nc: 1
+names: ['Knife']
