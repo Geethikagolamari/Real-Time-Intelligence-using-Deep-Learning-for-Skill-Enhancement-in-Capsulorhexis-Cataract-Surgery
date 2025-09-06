@@ -8,7 +8,7 @@ Published in International Conference on Machine Learning Technologies (ICMLT) 2
 - Yeshaswini C V M
  
 
-The research was carried as a part of our final year projectand completed under the guidance of Dr. B Niranjana Krupa and Dr. Manjunath K P.
+The research was carried as a part of our final year project and completed under the guidance of Dr. B Niranjana Krupa and Dr. Manjunath K P.
 
 ## ABSTRACT
 This research focuses on creating a guidance map
