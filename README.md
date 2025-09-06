@@ -36,7 +36,7 @@ time phase recognition and segmentation. The study uses ResNet
  of the main incision. The capsulorhexis guidance map provides a
  guide along the rhexis circle (circle along which capsule is torn).
 
-![alt text](https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Incision_guidance_map_outline.png "Incision Guidance Map Outline")
+<img src="https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Incision_guidance_map_outline.png" alt="Incision Guidance Map Outline" style="width:50%; height:auto;">
 
 ![alt text](https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Incision_Phase_depth.png "Incision Phase: Depth")
 
