@@ -36,9 +36,12 @@ time phase recognition and segmentation. The study uses ResNet
  of the main incision. The capsulorhexis guidance map provides a
  guide along the rhexis circle (circle along which capsule is torn).
 
+<p align="center">
 <img src="https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Incision_guidance_map_outline.png" alt="Incision Guidance Map Outline" style="width:50%; height:auto;">
-
+</p>
+<p align="center">
 <img src="https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Incision_Phase_depth.png" alt="Incision Phase: Depth" style="width:50%; height:auto;">
+</p>
 
 ## DATASET
 The dataset was taken from the 1000 videos published as Cataract-1k Ghamsarian et.al. and processed for our use case. The codes used were derived from Cataract-1k with a few modifications of our own. 
@@ -46,14 +49,15 @@ The dataset was taken from the 1000 videos published as Cataract-1k Ghamsarian e
 ## CODE
 The code has been published in this github repository with the division of Phase recognition and Segmentation with respective phases having their own pre processing codes. The main code containing the guidance map generation is in a seperate folder. The individual phases of the project were kept seperate and not integrated. Only outputs were collected and processed further.
 ## OUTPUT
-
+<p align="center">
 <img src="https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Capsulorhexis_map.png" alt="Capsulorhexis Map" style="width:50%; height:auto;">
-
-
+</p>
+<p align="center">
 <img src="https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Incision_guidance_map.png" alt="Incision Map" style="width:50%; height:auto;">
-
-
+</p>
+<p align="center">
 <img src="https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Depth_map.png" alt="Incision Depth Map" style="width:50%; height:auto;">
+</p>
 
 ## Copyrights
 Copyright (c) 2022 Negin Ghamsarian;
