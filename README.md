@@ -38,13 +38,17 @@ time phase recognition and segmentation. The study uses ResNet
 
 ![alt text](https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Incision_guidance_map_outline.png "Incision Guidance Map Outline")
 
+![alt text](https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Incision_Phase_depth.png "Incision Phase: Depth")
+
 ## DATASET
 The dataset was taken from the 1000 videos published as Cataract-1k Ghamsarian et.al. and processed for our use case. The codes used were derived from Cataract-1k with a few modifications of our own. 
 
 ## CODE
 The code has been published in this github repository with the division of Phase recognition and Segmentation with respective phases having their own pre processing codes. The main code containing the guidance map generation is in a seperate folder. The individual phases of the project were kept seperate and not integrated. Only outputs were collected and processed further.
 ## OUTPUT
-
+![alt text](https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Capsulorhexis_map.png "Capsulorhexis Map")
+![alt text](https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Incision_guidance_map.png "Incision Map")
+![alt text](https://github.com/Geethikagolamari/Real-Time-Intelligence-using-Deep-Learning-for-Skill-Enhancement-in-Capsulorhexis-Cataract-Surgery/blob/main/Images%20in%20readme/Depth_map.png "Incision Depth Map")
 ## Copyrights
 Copyright (c) 2022 Negin Ghamsarian;
 Copyright (c) 2024 Negin Ghamsarian
