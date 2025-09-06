@@ -41,6 +41,7 @@ The dataset was taken from the 1000 videos published as Cataract-1k Ghamsarian e
 
 ## CODE
 The code has been published in this github repository with the division of Phase recognition and Segmentation with respective phases having their own pre processing codes. The main code containing the guidance map generation is in a seperate folder. The individual phases of the project were kept seperate and not integrated. Only outputs were collected and processed further.
+## OUTPUT
 
 ## Copyrights
 Copyright (c) 2022 Negin Ghamsarian;
